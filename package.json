@@ -1,4 +1,5 @@
 {
+  "homepage": "https://PRAKASHZZ007.github.io/JobApp",
   "name": "jobby-app",
   "private": true,
   "version": "1.0.0",
@@ -32,6 +33,7 @@
     "react-scripts": "4.0.3"
   },
   "scripts": {
+    "predeploy":"npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
