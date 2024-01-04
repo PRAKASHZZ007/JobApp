@@ -38,6 +38,7 @@ const Header = props => {
               </Link>
             </li>
             <li>
+              {/* eslint-disable-next-line */}
               <button
                 type="button"
                 className="nav-mobile-btn"

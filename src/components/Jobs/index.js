@@ -144,7 +144,7 @@ class Jobs extends Component {
       </p>
       <button
         type="button"
-        testid="button"
+        data-testid="button"
         className="jobs-failure-button"
         onClick={this.getJobs}
       >
@@ -154,7 +154,7 @@ class Jobs extends Component {
   )
 
   renderLoadingView = () => (
-    <div className="loader-container" testid="loader">
+    <div className="loader-container" data-testid="loader">
       <Loader type="ThreeDots" color="#ffffff" height="50" width="50" />
     </div>
   )
@@ -220,9 +220,10 @@ class Jobs extends Component {
                   onChange={this.changeSearchInput}
                   onKeyDown={this.onEnterSearchInput}
                 />
+                {/* eslint-disable-next-line */}
                 <button
                   type="button"
-                  testid="searchButton"
+                  data-testid="searchButton"
                   className="search-button-container-desktop"
                   onClick={this.getJobs}
                 >

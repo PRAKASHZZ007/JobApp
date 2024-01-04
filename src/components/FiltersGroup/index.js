@@ -28,6 +28,7 @@ const FiltersGroup = props => {
           onChange={onChangeSearchInput}
           onKeyDown={onEnterSearchInput}
         />
+        {/* eslint-disable-next-line */}
         <button
           type="button"
           id="searchButton"
