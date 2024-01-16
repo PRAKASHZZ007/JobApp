@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JobApp/static/css/main.f44f1af4.chunk.css",
+    "main.js": "/JobApp/static/js/main.6e48b2f3.chunk.js",
+    "main.js.map": "/JobApp/static/js/main.6e48b2f3.chunk.js.map",
+    "runtime-main.js": "/JobApp/static/js/runtime-main.c28f5fd9.js",
+    "runtime-main.js.map": "/JobApp/static/js/runtime-main.c28f5fd9.js.map",
+    "static/js/2.ff18c23e.chunk.js": "/JobApp/static/js/2.ff18c23e.chunk.js",
+    "static/js/2.ff18c23e.chunk.js.map": "/JobApp/static/js/2.ff18c23e.chunk.js.map",
+    "index.html": "/JobApp/index.html",
+    "static/css/main.f44f1af4.chunk.css.map": "/JobApp/static/css/main.f44f1af4.chunk.css.map",
+    "static/js/2.ff18c23e.chunk.js.LICENSE.txt": "/JobApp/static/js/2.ff18c23e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28f5fd9.js",
+    "static/js/2.ff18c23e.chunk.js",
+    "static/css/main.f44f1af4.chunk.css",
+    "static/js/main.6e48b2f3.chunk.js"
+  ]
+}
